@@ -1,16 +1,22 @@
 brightnessctl
-pywal16 # hellwal wallust
+python-pywal16
 waypaper
 hyprland
+hyprlock
 swww
 fish
 kitty
-micro
-wl clipboard
-wllogout
-nemo # or thunar
+wl-clipboard
+wlogout
+fastfetch
 hyprshot
 dunst
-jetbrainmono/nerd
-hyprpolkit
-btop
+wofi
+ttf-jetbrains-mono-nerd
+ttf-jetbrains-mono
+hyprpolkitagent
+
+# non essential programs but i like them
+# nemo
+# btop
+# micro

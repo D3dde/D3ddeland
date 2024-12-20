@@ -18,6 +18,8 @@ For these dotfiles, I used Pywal16, but with a little effort (and patience), it 
 
 ## todo
 
+- [ ] installation script (it's just one command)
+
 - [ ] dunst (better (pywal))
 
 - [ ] rofi (better (now it's meh))
