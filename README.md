@@ -8,6 +8,8 @@ I created these dotfiles with the aim of making a minimal (I think) Unix porn-pr
 
 For these dotfiles, I used Pywal16, but with a little effort (and patience), it can be easily swapped with Wallust and Hellwal. I used Pywal16 because it works well for my system, but in the future, I might consider swapping it out.
 
+⚠ Temporarily use your favorite GTK theme ⚠
+
 ## screenshots
 
 ![ops...](screenshots/img1.png)
