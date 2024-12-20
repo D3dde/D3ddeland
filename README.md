@@ -10,11 +10,11 @@ For these dotfiles, I used Pywal16, but with a little effort (and patience), it 
 
 ## screenshots
 
-<img title="" src="file:///home/gandalf/dotfiles/screenshots/img1.png" alt="">
+![ops...](screenshots/img1.png)
 
-<img title="" src="file:///home/gandalf/dotfiles/screenshots/img2.png" alt="">
+![ops...](screenshots/img2.png)
 
-<img title="" src="file:///home/gandalf/dotfiles/screenshots/img3.png" alt="">
+![ops...](screenshots/img3.png)
 
 ## todo
 
@@ -32,7 +32,6 @@ For these dotfiles, I used Pywal16, but with a little effort (and patience), it 
 
 - [ ] nvim (nvChad with pywal)
 
-- [ ] 
 - [ ] vesktop (?)
 
 - [ ] micro (?)
