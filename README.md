@@ -24,7 +24,7 @@ For these dotfiles, I used Pywal16, but with a little effort (and patience), it 
 
 - [ ] dunst (better (pywal))
 
-- [ ] rofi (better (now it's meh))
+- [ ] wofi (better (now it's meh))
 
 - [ ] understand why Pywal doesn't change the previous prompt color
 
