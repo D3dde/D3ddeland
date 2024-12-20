@@ -1,0 +1,77 @@
+{
+	"battery": {
+		"format": "{icon}",
+		"format-alt": "{icon} {capacity}",
+		"format-icons": {
+			"default": ["󰂎","󰁻","󰁽","󰁿","󰂁","󰁹"],
+			"charging": ["󰢟","󰂆","󰂈","󰂉","󰂊","󰂅"]
+		},
+		"tooltip-format": "{timeTo}"
+	},
+	"cpu": {
+		"format": " {usage}",
+		"tooltip": false,
+	},
+	"clock": {
+	    "format": "{:%H:%M}",
+	    "format-alt": "{:%Y-%m-%d}",
+	    "tooltip": false,
+	},
+	"hyprland/workspaces": {
+	  "format": "{icon}:{windows}",
+	  "window-rewrite-default": "󰣆",
+	  "window-rewrite": {
+	    "class<firefox> title<.*youtube.*>": "",
+	    "class<firefox> title<.*github.*>": "",
+	    "class<firefox> title<.*twitch.*>": "",
+	    "class<kitty> title<.*nvim.*>": "",
+	    "class<code-oss>": "",
+	    "class<firefox>": "󰈹",
+	    "class<kitty>": "󰄛",
+	    "class<godot>": "",
+	    "class<nemo>": "󰉋",
+	    "class<vesktop>": "",
+	    "class<waypaper>": "",
+		},
+	},
+	"memory": {
+		"format": " {percentage}",
+		"format-alt": " {used}/{total}GB",
+		"tooltip": false,
+	},
+	"network": {
+		"format": "{icon} ",
+		"format-ethernet": "󰈀",
+		"format-disconnected": "󰖪",
+		"format-icons" : ["󰤯","󰤟","󰤢","󰤥","󰤨"],
+		"tooltip": false,
+	},
+	"pulseaudio": {
+	    "format": "{icon} {volume}",
+	    "format-bluetooth": "{icon} {volume}",
+	    "format-muted": " ",
+	    "format-icons": {
+	        "headphone": "󰋋",
+	        "hands-free": "󱡏",
+	        "headset": "󰋎",
+	        "phone": "",
+	        "phone-muted": "",
+	        "car": "",
+	        "default": ["","",""]
+	    },
+	    "tooltip": false,
+	    
+	},
+	"temperature": {
+		"format": "{temperatureC}󰔄",
+		"tooltip": false,
+	},
+	"group/hardware": {
+	    "orientation": "inherit",
+	    "drawer": {
+	      "transition-duration": 250,
+	      "transition-left-to-right": false,
+	    },
+	    "modules": ["cpu", "memory", "temperature"],
+	},
+}

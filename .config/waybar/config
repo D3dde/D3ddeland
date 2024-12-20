@@ -1,0 +1,22 @@
+{
+  "layer": "bottom",
+  "position": "top",
+  "margin": "15 15 0 15",
+  "fixed-center": true,
+  "reload_style_on_change": true,
+  "include": ["~/.config/waybar/modules.json"],
+  "modules-left": [
+    "hyprland/workspaces",
+  ],
+  
+  "modules-center": [
+    "clock",
+  ],
+
+  "modules-right": [
+    "group/hardware",
+    "network",
+    "pulseaudio",
+    "battery",
+  ],
+}

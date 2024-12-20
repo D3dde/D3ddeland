@@ -1,0 +1,40 @@
+@import "../../.cache/wal/colors-waybar.css";
+
+@define-color main-color @color1;
+
+* {
+  font: bold 16px "JetBrainsMono Nerd Font";
+  border: none;
+}
+
+window#waybar {
+  background: alpha(@background, 0.5);
+  border-radius: 10px;
+}
+
+#workspaces,
+#pulseaudio,
+#hardware,
+#network,
+#battery,
+#clock {
+  padding: 0px 10px 0px 10px;
+  margin: 2px 2px 2px 2px;
+  background: alpha(@background, 0.3);
+  border-radius: 10px;
+  color: lighter(@main-color);
+}
+
+#workspaces button {
+  color: lighter(@main-color);
+}
+
+#workspaces button.active,
+#workspaces button:hover {
+  background: none;
+  color: lighter(@color6);
+}
+
+#temperature{
+	margin: 0px 10px 0px 10px;
+}
