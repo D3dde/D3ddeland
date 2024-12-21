@@ -22,13 +22,13 @@ For these dotfiles, I used Pywal16, but with a little effort (and patience), it 
 
 - [ ] installation script (it's just one command)
 
-- [ ] dunst (better (pywal))
+- [ ] dunst (better (now it's not using pywal))
 
 - [ ] wofi (better (now it's meh))
 
 - [ ] understand why Pywal doesn't change the previous prompt color
 
-- [ ] pywalfox (when i tried it didn't worked)
+- [x] pywalfox (when i tried it didn't worked)
 
 - [ ] GTK (idk if it's even possible)
 
@@ -40,6 +40,6 @@ For these dotfiles, I used Pywal16, but with a little effort (and patience), it 
 
 - [ ] micro (?)
 
-- [ ] btop (?)
+- [x] btop (?)
 
 - [ ] cava (?)
