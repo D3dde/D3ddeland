@@ -1,6 +1,8 @@
 brightnessctl
 python-pywal16
 waypaper
+waybar
+starship
 hyprland
 hyprlock
 swww
@@ -15,8 +17,9 @@ wofi
 ttf-jetbrains-mono-nerd
 ttf-jetbrains-mono
 hyprpolkitagent
-
-# non essential programs but i like them
-# nemo
-# btop
-# micro
+python-pywalfox
+xdg-user-dirs
+nemo or thunar or yazi
+btop
+micro
+nwg-look

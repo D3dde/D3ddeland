@@ -1,7 +1,5 @@
 @import "../../.cache/wal/colors-waybar.css";
 
-@define-color main-color @color1;
-
 * {
   font: bold 16px "JetBrainsMono Nerd Font";
   border: none;
@@ -22,11 +20,11 @@ window#waybar {
   margin: 2px 2px 2px 2px;
   background: alpha(@background, 0.3);
   border-radius: 10px;
-  color: lighter(@main-color);
+  color: lighter(@color1);
 }
 
 #workspaces button {
-  color: lighter(@main-color);
+  color: lighter(@color1);
 }
 
 #workspaces button.active,
