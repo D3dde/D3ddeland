@@ -1,3 +1,4 @@
+firefox
 brightnessctl
 python-pywal16
 waypaper
@@ -19,7 +20,9 @@ ttf-jetbrains-mono
 hyprpolkitagent
 python-pywalfox
 xdg-user-dirs
-nemo or thunar or yazi
+nemo
+yazi
 btop
 micro
 nwg-look
+stow
