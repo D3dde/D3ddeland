@@ -26,6 +26,7 @@
 	    "class<firefox> title<.*twitch.*>": "",
 	    "class<kitty> title<.*nvim.*>": "",
 	    "class<code-oss>": "",
+	    "class<steam>": "",
 	    "class<firefox>": "󰈹",
 	    "class<kitty>": "󰄛",
 	    "class<godot>": "",
