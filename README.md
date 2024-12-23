@@ -20,7 +20,9 @@ For these dotfiles, I used Pywal16, but with a little effort (and patience), it 
 
 ## todo
 
-- [ ] installation script (idk if it works)
+- [x] installation script
+
+- [ ] better wlogout (or change it)
 
 - [ ] dunst (better (now it's not using pywal))
 
@@ -28,7 +30,7 @@ For these dotfiles, I used Pywal16, but with a little effort (and patience), it 
 
 - [ ] understand why Pywal doesn't change the previous prompt color
 
-- [x] pywalfox (when i tried it didn't worked)
+- [x] pywalfox
 
 - [ ] GTK (idk if it's even possible)
 
@@ -36,10 +38,10 @@ For these dotfiles, I used Pywal16, but with a little effort (and patience), it 
 
 - [ ] nvim (nvChad with pywal)
 
-- [x] vesktop (?)
+- [x] vesktop
 
 - [ ] micro (?)
 
-- [x] btop (?)
+- [x] btop
 
 - [ ] cava (?)
