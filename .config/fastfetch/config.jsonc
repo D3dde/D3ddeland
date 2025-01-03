@@ -15,6 +15,7 @@
     	"wm",
     	"cpu",
     	"memory",
+    	"localip",
     	"break",
     	"colors"
   	]
