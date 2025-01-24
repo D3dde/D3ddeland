@@ -45,7 +45,7 @@
 	"network": {
 		"format": "{icon} ",
 		"format-ethernet": "󰈀",
-		"format-disconnected": "󰖪",
+		"format-disconnected": "󰤭",
 		"format-icons" : ["󰤯","󰤟","󰤢","󰤥","󰤨"],
 		"tooltip": false,
 	},
