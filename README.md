@@ -44,4 +44,6 @@ For these dotfiles, I used Pywal16, but with a little effort (and patience), it 
 
 - [x] btop
 
+- [x] spicetify (just install marketplace)
+
 - [ ] cava (?)
