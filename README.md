@@ -34,16 +34,12 @@ For these dotfiles, I used Pywal16, but with a little effort (and patience), it 
 
 - [ ] GTK (idk if it's even possible)
 
-- [ ] spicetify (?)
-
-- [ ] nvim (nvChad with pywal)
+- [ ] zed
 
 - [x] vesktop
 
 - [ ] micro (?)
 
 - [x] btop
-
-- [x] spicetify (just install marketplace)
 
 - [ ] cava (?)
